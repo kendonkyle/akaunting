@@ -51,6 +51,7 @@ return [
     'templates'             => 'Skabelon|Skabeloner',
     'sales'                 => 'Salg|Salg',
     'purchases'             => 'Bestilling|Bestillinger',
+    'notifications'         => 'Notifikation|Notifikationer',
 
     'welcome'               => 'Velkommen',
     'banking'               => 'Bank',
@@ -95,7 +96,7 @@ return [
     'attachment'            => 'Bilag',
     'change'                => 'Ændre',
     'change_type'           => 'Skift :type',
-    'switch'                => 'Skift',
+    'switch'                => 'Skift til',
     'color'                 => 'Farve',
     'save'                  => 'Gem',
     'confirm'               => 'Bekræft',
